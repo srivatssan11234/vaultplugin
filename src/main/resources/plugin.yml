@@ -1,0 +1,4 @@
+name: Vaultplugin
+version: '${project.version}'
+main: me.srivatssanayyasamy.vaultplugin.Vaultplugin
+api-version: 1.19
